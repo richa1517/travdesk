@@ -1,0 +1,33 @@
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+#background{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: url("img/bg.jpg") no-repeat center;
+    background-size: cover;
+
+}
+.tag{
+    color: white;
+    padding: 10px;
+    margin-top: 140px;
+    text-align: center;
+    font-size: 30px;
+
+}
+.line{
+    font-size: 25px;
+}
+img{
+    border-radius: 4px;
+    bottom: 0;
+    position: absolute;
+    
+    margin-bottom: 10px;
+}
+.wa{
+    margin-right: 70px;
+    float: right;
+}
